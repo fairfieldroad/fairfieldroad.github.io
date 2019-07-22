@@ -1,0 +1,13 @@
+@media (min-width: 992px) {
+    .u-hero-v1__main {
+      height: 30vh;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .u-hero-v1__secondary {
+      height: 15vh;
+    }
+  }
+  
+    
